@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../xampp/htdocs/comit-php-htdocs"
+		},
+		{
+			"path": "../../../Documents/app-dev"
+		},
+		{
+			"path": "../../ApprendreEtEnseigner.github.io"
+		},
+		{
+			"path": "../../gitTuto"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../i-j-w"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "_"
+	}
+}
